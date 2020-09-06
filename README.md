@@ -55,3 +55,7 @@ Contiene las clases necesarias para el funcionamiento del API
 * Validaciones en el código fuente
 * Diseño de pruebas unitarias 
 * Implementar un mecanismo de auditoría a base de archivos de texto.
+
+## Link video
+https://youtu.be/2tqLk9G2Clg
+
