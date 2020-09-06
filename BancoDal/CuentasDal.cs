@@ -41,6 +41,7 @@ namespace BancoDal
       var pp = (from p in context.Cuenta
                 join h in context.Persona
                 on p.IdPersona.IdPersona equals h.IdPersona
+                where p.NumeroCuenta == numeroCuenta
                 select new CuentaDatos
                 {
                  
